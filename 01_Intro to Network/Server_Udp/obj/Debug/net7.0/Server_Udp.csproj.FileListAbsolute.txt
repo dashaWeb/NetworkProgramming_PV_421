@@ -1,0 +1,15 @@
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\bin\Debug\net7.0\Server_Udp.exe
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\bin\Debug\net7.0\Server_Udp.deps.json
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\bin\Debug\net7.0\Server_Udp.runtimeconfig.json
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\bin\Debug\net7.0\Server_Udp.dll
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\bin\Debug\net7.0\Server_Udp.pdb
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\obj\Debug\net7.0\Server_Udp.csproj.AssemblyReference.cache
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\obj\Debug\net7.0\Server_Udp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\obj\Debug\net7.0\Server_Udp.AssemblyInfoInputs.cache
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\obj\Debug\net7.0\Server_Udp.AssemblyInfo.cs
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\obj\Debug\net7.0\Server_Udp.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\obj\Debug\net7.0\Server_Udp.dll
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\obj\Debug\net7.0\refint\Server_Udp.dll
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\obj\Debug\net7.0\Server_Udp.pdb
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\obj\Debug\net7.0\Server_Udp.genruntimeconfig.cache
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Server_Udp\obj\Debug\net7.0\ref\Server_Udp.dll

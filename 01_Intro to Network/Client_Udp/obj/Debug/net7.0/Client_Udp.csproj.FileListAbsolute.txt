@@ -1,0 +1,15 @@
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\bin\Debug\net7.0\Client_Udp.exe
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\bin\Debug\net7.0\Client_Udp.deps.json
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\bin\Debug\net7.0\Client_Udp.runtimeconfig.json
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\bin\Debug\net7.0\Client_Udp.dll
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\bin\Debug\net7.0\Client_Udp.pdb
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\obj\Debug\net7.0\Client_Udp.csproj.AssemblyReference.cache
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\obj\Debug\net7.0\Client_Udp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\obj\Debug\net7.0\Client_Udp.AssemblyInfoInputs.cache
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\obj\Debug\net7.0\Client_Udp.AssemblyInfo.cs
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\obj\Debug\net7.0\Client_Udp.csproj.CoreCompileInputs.cache
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\obj\Debug\net7.0\Client_Udp.dll
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\obj\Debug\net7.0\refint\Client_Udp.dll
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\obj\Debug\net7.0\Client_Udp.pdb
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\obj\Debug\net7.0\Client_Udp.genruntimeconfig.cache
+C:\Users\konopelko\Desktop\NetworkProgramming_PD_421\01_Intro to Network\Client_Udp\obj\Debug\net7.0\ref\Client_Udp.dll
