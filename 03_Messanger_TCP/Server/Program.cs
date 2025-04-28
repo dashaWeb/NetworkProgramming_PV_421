@@ -36,7 +36,7 @@ public class ChatServer
                 break;
             }
 
-            Console.WriteLine($"{DateTime.Now.ToLongTimeString()}  -- {message} --  from {client.Client.LocalEndPoint}");
+            Console.WriteLine($"{DateTime.Now.ToLongTimeString()}  -- {message} --  from {client.Client.RemoteEndPoint}");
 
             sw.WriteLine(message);
             sw.Flush();
@@ -55,5 +55,8 @@ internal class Program
         {
             chat.Start();
         }
+        /*WebClient client = new WebClient();
+
+        Console.WriteLine(client.DownloadString(@"https://drive.google.com/drive/u/1/folders/1tr6z38spKtM9rHxx1VciJ5czHZkeEaF7"));*/
     }
 }

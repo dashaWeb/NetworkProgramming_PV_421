@@ -52,7 +52,7 @@ namespace Client
                 return;
             }
             sw.WriteLine(message);
-
+            
             sw.Flush();
             
 
@@ -74,6 +74,8 @@ namespace Client
                 client = new TcpClient();
                 client.Connect(server);
                 ns = client.GetStream();
+
+                
 
                 sw = new StreamWriter(ns);
                 sr = new StreamReader(ns);
