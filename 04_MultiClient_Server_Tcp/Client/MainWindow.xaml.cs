@@ -63,5 +63,22 @@ namespace Client
                 client?.Close();
             }
         }
+
+        private void InputNumber(object sender, TextChangedEventArgs e)
+        {
+            if(!checkLineNumber(txtBox.Text))
+            {
+                txtBox.Background = Brushes.Red;
+            }
+            else
+            {
+                txtBox.Background = new SolidColorBrush(Colors.White);
+            }
+        }
+
+        private bool checkLineNumber(string text)
+        {
+            return text.All((s) => char.IsDigit(s));
+        }
     }
 }

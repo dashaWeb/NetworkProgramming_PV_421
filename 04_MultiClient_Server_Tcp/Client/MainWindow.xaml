@@ -22,7 +22,7 @@
         <DockPanel Grid.Row="1">
             <Label VerticalContentAlignment="Center" FontSize="16" >Number: </Label>
             <Button Click="GetFactorial_Btn" Margin="5" FontSize="16" DockPanel.Dock="Right" Padding="5" Background="#FF15922D" Foreground="White" FontWeight="Bold">GetFactorial</Button>
-            <TextBox Name="txtBox" Margin="5" VerticalContentAlignment="Center" FontSize="16"></TextBox>
+            <TextBox  Name="txtBox" Margin="5" VerticalContentAlignment="Center" FontSize="16" TextChanged="InputNumber" BorderBrush="#FF1F51E6" SelectionBrush="#FF0078D7" />
         </DockPanel>
         <ListBox x:Name="list" Grid.Row="2" FontStyle="Italic" FontSize="16"></ListBox>
     </Grid>
