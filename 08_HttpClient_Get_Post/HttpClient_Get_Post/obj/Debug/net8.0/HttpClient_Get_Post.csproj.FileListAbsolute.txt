@@ -1,0 +1,15 @@
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\obj\Debug\net8.0\HttpClient_Get_Post.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\obj\Debug\net8.0\HttpClient_Get_Post.AssemblyInfoInputs.cache
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\obj\Debug\net8.0\HttpClient_Get_Post.AssemblyInfo.cs
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\obj\Debug\net8.0\HttpClient_Get_Post.csproj.CoreCompileInputs.cache
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\obj\Debug\net8.0\HttpClient_Get_Post.sourcelink.json
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\bin\Debug\net8.0\HttpClient_Get_Post.exe
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\bin\Debug\net8.0\HttpClient_Get_Post.deps.json
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\bin\Debug\net8.0\HttpClient_Get_Post.runtimeconfig.json
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\bin\Debug\net8.0\HttpClient_Get_Post.dll
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\bin\Debug\net8.0\HttpClient_Get_Post.pdb
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\obj\Debug\net8.0\HttpClient_Get_Post.dll
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\obj\Debug\net8.0\refint\HttpClient_Get_Post.dll
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\obj\Debug\net8.0\HttpClient_Get_Post.pdb
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\obj\Debug\net8.0\HttpClient_Get_Post.genruntimeconfig.cache
+D:\Dasha\Programming\Gropus\NetworkProgramming_PV_421\08_HttpClient_Get_Post\HttpClient_Get_Post\obj\Debug\net8.0\ref\HttpClient_Get_Post.dll
